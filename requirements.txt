@@ -1,0 +1,10 @@
+bertopic
+contextualized-topic-models
+top2vec
+gensim
+pandas
+matplotlib
+wordcloud
+scikit-learn
+openpyxl
+nltk
