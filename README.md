@@ -1,4 +1,7 @@
+
 # Trendyol Review NLP Project
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15655012.svg)](https://doi.org/10.5281/zenodo.15655012)
 
 This repository contains scripts and resources for topic modeling and coherence evaluation of Turkish e-commerce reviews scraped from Trendyol. The following topic modeling methods are implemented and compared:
 
